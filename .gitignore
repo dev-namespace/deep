@@ -1,2 +1,4 @@
 env
+datasets
+models
 __pycache__
